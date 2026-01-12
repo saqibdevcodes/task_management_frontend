@@ -1,75 +1,32 @@
-# Nuxt Minimal Starter
+# Task Management Frontend
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+**Developer:** Saqib Javaid  
+**Contact:** 03024955797  
+**Frontend:** Nuxt 3  
+**Backend:** Laravel 10  
+**Git Repository:** [Link to be added]  
+**Time Consumed:** Approximately 2.5 hours (within 3 hours)
 
-## Setup
+## What I've Done
 
-Make sure to install dependencies:
+- **Authentication:** Implemented token-based authentication with middleware checking
+- **Styling:** Used Tailwind CSS for styling
+- **Task Management:** Created task page with full CRUD operations (Create, Read, Update, Delete)
+- **Filtering:** Implemented task filtering functionality
+- **State Management:** All scripts working properly in the stores
+- **Code Organization:** Kept scripts clean and organized in template pages
 
-```bash
-# npm
-npm install
+## Future Improvements
 
-# pnpm
-pnpm install
+If I had more time, I would:
 
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- Improve the UI design
+- Use Vue AG Grid library for better table functionality
+- Add Excel export feature
+- Enhance layout management
+- Add alert modals for:
+  - Completed tasks
+  - Adding tasks
+  - Deleting tasks
+- Implement toast notifications
+- Add email notifications for task CRUD operations (Create, Read, Update, Delete)
