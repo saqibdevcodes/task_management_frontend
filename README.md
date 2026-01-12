@@ -4,8 +4,10 @@
 **Contact:** 03024955797  
 **Frontend:** Nuxt 3  
 **Backend:** Laravel 10  
-**Git Repository:** [Link to be added]  
-**Time Consumed:** Approximately 2.5 hours (within 3 hours)
+**Git Repository:**
+- Frontend: https://github.com/saqibdevcodes/task_management_frontend.git
+- Backend: Not yet available  
+  **Time Consumed:** Approximately 2.5 hours (within 3 hours)
 
 ## What I've Done
 
