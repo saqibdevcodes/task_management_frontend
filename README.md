@@ -5,9 +5,10 @@
 **Frontend:** Nuxt 3  
 **Backend:** Laravel 10  
 **Git Repository:**
+
 - Frontend: https://github.com/saqibdevcodes/task_management_frontend.git
-- Backend: Not yet available  
-  **Time Consumed:** Approximately 2.5 hours (within 3 hours)
+- Backend: https://github.com/saqibdevcodes/task_management_backend.git
+  **Time Consumed:** Approximately 2.5 hours (within 3 hours) (both frontend and backend)
 
 ## What I've Done
 
